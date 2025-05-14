@@ -15,7 +15,7 @@
 
 <h2>👌3D Modeling and Animation</h2>
 
-- [Stack of 3D Real looking Donuts with Camera animation](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Stack of 3D Real looking Donuts with Camera animation](https://github.com/Sadique107/3D-model-/tree/main)
 
 <h2>📄Certifications</h2>
 
