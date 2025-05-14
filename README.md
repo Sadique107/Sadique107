@@ -11,7 +11,7 @@
 <h2>🎮 Unity Games with C#</h2>
 
 - [Coin Collecting Ball Game](https://github.com/Sadique107/Rollin-The-Ball/tree/main)
-- [3D virtual City Tour Simulation](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [3D virtual City Tour Simulation](https://github.com/Sadique107/Virtual-City-Tour/tree/main)
 
 <h2>👌3D Modeling and Animation</h2>
 
