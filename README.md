@@ -8,7 +8,7 @@
   - [Interactive Virtual Car Garage](https://github.com/Sadique107/AR-Car-Garage)<br /><img src="https://i.ibb.co/nM4sdvHv/IMG-20250516-WA0002.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   - [AR Home Designer](https://github.com/Sadique107/AR-Car-Garage/tree/main)<br /><img src="https://i.ibb.co/nM4sdvHv/IMG-20250516-WA0002.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   - [AR Virtual Object Immersion](https://github.com/Sadique107/Virtual-Object-Immersion)<br /><img src="https://i.ibb.co/nM4sdvHv/IMG-20250516-WA0002.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  - [AR Video Player](https://github.com/joshmadakor1/Algorithms-Practice)<br /><img src="https://i.ibb.co/nM4sdvHv/IMG-20250516-WA0002.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  - [AR Video Player](https://github.com/Sadique107/AR-Video-Player/tree/main)<br /><img src="https://i.ibb.co/nM4sdvHv/IMG-20250516-WA0002.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <h2>🎮 Unity Games with C#</h2>
 
