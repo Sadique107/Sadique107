@@ -1,5 +1,5 @@
-<h1>Hi, I'm Sadique! <br/></h1>
-
+<h1>Hi, I'm Sadique! </h1>   <h2><p align = "center"><b>Welcome To My Portfolio Profile!</p></b></h2>
+<br />
 <h2>🕶️ Unity AR/VR Projects:</h2>
 
   - [3D Virtual Museum Tour]()<br /><img src="https://i.ibb.co/nM4sdvHv/IMG-20250516-WA0002.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
