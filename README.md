@@ -1,4 +1,6 @@
-<h1>Hi, I'm Sadique! </h1>   <h2><p align = "center"><b>Welcome To My Portfolio Profile!</p></b></h2>
+<h1><p align = "center">Hi, I'm Sadique & Welcome To My Portfolio Profile!</h1>
+<b>Below are my Works and Achievements : </b>
+</p>
 <br />
 <h2>🕶️ Unity AR/VR Projects:</h2>
 
