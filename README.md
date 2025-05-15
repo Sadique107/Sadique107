@@ -4,8 +4,8 @@
 <br />
 <h2>🕶️ Unity AR/VR Projects:</h2>
 
-  - [3D Virtual Museum Tour](https://github.com/Sadique107/VR-Museum-tour-)<br /><img src="https://i.ibb.co/nM4sdvHv/IMG-20250516-WA0002.jpg" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-  - [Interactive Virtual Car Garage](https://github.com/joshmadakor1/Algorithms-Practice)<br /><img src="https://i.ibb.co/nM4sdvHv/IMG-20250516-WA0002.jpg" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+  - [3D Virtual Museum Tour](https://github.com/Sadique107/VR-Museum-tour-)<br /><img src="https://i.ibb.co/nM4sdvHv/IMG-20250516-WA0002.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  - [Interactive Virtual Car Garage](https://github.com/joshmadakor1/Algorithms-Practice)<br /><img src="https://i.ibb.co/nM4sdvHv/IMG-20250516-WA0002.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   - [AR Home Designer](https://github.com/Sadique107/AR-Car-Garage/blob/main/README.md)<br /><img src="https://i.ibb.co/nM4sdvHv/IMG-20250516-WA0002.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   - [Virtual object Integrator](https://github.com/joshmadakor1/Algorithms-Practice)<br /><img src="https://i.ibb.co/nM4sdvHv/IMG-20250516-WA0002.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   - [AR Video Player](https://github.com/joshmadakor1/Algorithms-Practice)<br /><img src="https://i.ibb.co/nM4sdvHv/IMG-20250516-WA0002.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
