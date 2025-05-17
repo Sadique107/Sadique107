@@ -6,7 +6,7 @@
 
   - [3D Virtual Museum Tour](https://github.com/Sadique107/VR-Museum-tour-)<br /><img src="https://i.ibb.co/PHbKLz7/Screenshot-2025-05-18-031754.png" height="80%" width="80%" alt="Disk Sanitization Steps" />
   - [Interactive Virtual Car Garage](https://github.com/Sadique107/AR-Car-Garage)<br /><img src="https://i.ibb.co/gb2JrN3v/Screenshot-2025-05-18-034607.png" height="80%" width="80%" alt="Disk Sanitization Steps" />
-  - [AR Home Designer](https://github.com/Sadique107/Virtual-Object-Immersion)<br /><img src="https://i.ibb.co/nM4sdvHv/IMG-20250516-WA0002.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  - [AR Home Designer](https://github.com/Sadique107/AR-House-Designing)<br /><img src="https://i.ibb.co/nM4sdvHv/IMG-20250516-WA0002.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   - [AR Virtual Object Immersion](https://github.com/Sadique107/Virtual-Object-Immersion)<br /><img src="https://i.ibb.co/nM4sdvHv/IMG-20250516-WA0002.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   - [AR Video Player](https://github.com/Sadique107/AR-Video-Player/tree/main)<br /><img src="https://i.ibb.co/nM4sdvHv/IMG-20250516-WA0002.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
